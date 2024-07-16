@@ -1,0 +1,28 @@
+/* style.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #ffffff, #add8e6);
+}
+
+#cabecalho {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+#conteudo {
+  padding: 20px;
+}
+
+#rodape {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
